@@ -9,3 +9,13 @@
 <ul class="top-level-menu">
     <li><a href="/dropdownmenu.html">Terug</a></li>
 </ul>
+  <h3> hier krijg je uitleg over systeem-on-a-chip<h3>
+    <p>
+      Een System-on-a-Chip (SoC) is een elektronisch component dat alle essentiële elementen van een computersysteem integreert in één enkele chip. 
+      <br>
+      Dit wordt gedaan om de efficiëntie te verhogen, het energieverbruik te verminderen en ruimte te besparen in elektronische apparaten.
+      <br>
+      De architectuur van een SoC varieert afhankelijk van de toepassing en wordt aangepast aan de specifieke behoeften van het apparaat. 
+      <br>
+      SoC's kunnen ook ontworpen zijn om naadloos te werken met het besturingssysteem van het apparaat.
+    </p>
